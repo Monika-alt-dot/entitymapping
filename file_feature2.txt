@@ -1,0 +1,3 @@
+Hello I am file_feature2.txt
+
+I am used for merging of branches.
